@@ -1,0 +1,15 @@
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\juan_perez_tarea_1_calculo_ISR\bin\Debug\net10.0\juan_perez_tarea_1_calculo_ISR..exe
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\juan_perez_tarea_1_calculo_ISR\bin\Debug\net10.0\juan_perez_tarea_1_calculo_ISR..deps.json
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\juan_perez_tarea_1_calculo_ISR\bin\Debug\net10.0\juan_perez_tarea_1_calculo_ISR..runtimeconfig.json
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\juan_perez_tarea_1_calculo_ISR\bin\Debug\net10.0\juan_perez_tarea_1_calculo_ISR..dll
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\juan_perez_tarea_1_calculo_ISR\bin\Debug\net10.0\juan_perez_tarea_1_calculo_ISR..pdb
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\juan_perez_tarea_1_calculo_ISR\obj\Debug\net10.0\juan_perez_tarea_1_calculo_ISR..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\juan_perez_tarea_1_calculo_ISR\obj\Debug\net10.0\juan_perez_tarea_1_calculo_ISR..AssemblyInfoInputs.cache
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\juan_perez_tarea_1_calculo_ISR\obj\Debug\net10.0\juan_perez_tarea_1_calculo_ISR..AssemblyInfo.cs
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\juan_perez_tarea_1_calculo_ISR\obj\Debug\net10.0\juan_perez_tarea_1_calculo_ISR..csproj.CoreCompileInputs.cache
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\juan_perez_tarea_1_calculo_ISR\obj\Debug\net10.0\juan_perez_tarea_1_calculo_ISR..sourcelink.json
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\juan_perez_tarea_1_calculo_ISR\obj\Debug\net10.0\juan_perez_tarea_1_calculo_ISR..dll
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\juan_perez_tarea_1_calculo_ISR\obj\Debug\net10.0\refint\juan_perez_tarea_1_calculo_ISR..dll
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\juan_perez_tarea_1_calculo_ISR\obj\Debug\net10.0\juan_perez_tarea_1_calculo_ISR..pdb
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\juan_perez_tarea_1_calculo_ISR\obj\Debug\net10.0\juan_perez_tarea_1_calculo_ISR..genruntimeconfig.cache
+C:\Users\rdari\OneDrive\Desktop\progrmacion basica\juan_perez_tarea_1_calculo_ISR\obj\Debug\net10.0\ref\juan_perez_tarea_1_calculo_ISR..dll
