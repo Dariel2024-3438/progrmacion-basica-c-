@@ -1,4 +1,4 @@
-﻿namespace juan_perez_tarea_1_calculo_ISR_
+﻿namespace Dariel_Ramos_tarea_1_calculo_ISR_
 {
     internal class Program
     {
